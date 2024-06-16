@@ -35,8 +35,6 @@
 
 - [Correo Electrónico](xytrex12@gmail.com)
 
-- [Twitter](URL de tu perfil de Twitter)
-- 
 ---
 
 <!---
