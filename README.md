@@ -12,9 +12,11 @@
 
 - **Ingeniería Mecatrónica**: Diseño y desarrollo de sistemas integrados, robótica, automatización.
 - **Diseño Mecánico**: SolidWorks, CAD.
-- **Programación**: Python, C/C++.
+- **Programación**: Python, C/C++, VHDL, Verilog, Ladder Logic.
 - **Electrónica**: Microcontroladores, sensores, actuadores.
+- **Plataformas y Microcontroladores**: FPGA, PLC, Raspberry Pi, Arduino.
 - **Simulación y Análisis**: MATLAB, Simulink.
+
 
 ---
 
@@ -31,13 +33,11 @@
 
 - [LinkedIn](https://www.linkedin.com/in/mario-airy-hernandez-osorio-9537a3207/)
 
+- [Correo Electrónico](xytrex12@gmail.com)
+
 - [Twitter](URL de tu perfil de Twitter)
-- [Correo Electrónico](mailto:tuemail@example.com)
-
+- 
 ---
-
-Estoy siempre abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías. ¡No dudes en contactarme!
-
 
 <!---
 Airy0sorio/Airy0sorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
