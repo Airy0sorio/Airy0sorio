@@ -29,7 +29,7 @@
 
 #### Conéctate conmigo
 
-- [LinkedIn]![image](https://github.com/Airy0sorio/Airy0sorio/assets/142137070/1b296bf5-46cb-4580-b7cd-5fba310407d9)
+- [LinkedIn](https://www.linkedin.com/in/mario-airy-hernandez-osorio-9537a3207/)
 
 - [Twitter](URL de tu perfil de Twitter)
 - [Correo Electrónico](mailto:tuemail@example.com)
